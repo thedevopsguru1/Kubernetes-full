@@ -4,6 +4,8 @@
 https://github.com/thedevopsguru1/deploying_ingress_controller_to_k8s
 ## 3- Install ArgoCD to Kubernetes
 https://github.com/thedevopsguru1/Argo-CD-Installation
+## 3.2- Install Jenkins in kubernetes
+https://github.com/thedevopsguru1/deploy_Jenkins_in_kubernetes
 ## 4- Add users to kubernetes
 ## 5- Add NFS server to Kubernetes cluster
 ## 6- Install jenkins in Kubernetes
