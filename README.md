@@ -8,6 +8,7 @@ https://github.com/thedevopsguru1/Argo-CD-Installation
 https://github.com/thedevopsguru1/deploy_Jenkins_in_kubernetes
 ## 4- Add users to kubernetes
 https://github.com/devopstrainingschool/kubernetes-adding--users
+https://github.com/thedevopsguru1/kubernetes-adding--users
 ## 5- Connect to the cluster kube config:
 https://github.com/devopstrainingschool/Connecting-to-kubernetes-cluster
 ## 5- Add NFS server to Kubernetes cluster
