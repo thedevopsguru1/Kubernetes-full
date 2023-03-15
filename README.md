@@ -21,6 +21,7 @@ https://github.com/thedevopsguru1/nfs-dynamic-provisioning
 https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
 ## 7- External DNS 
 https://github.com/thedevopsguru1/external-dns
+https://www.youtube.com/watch?v=wLHegOz_aR4&t=816s
 ## 7- Kubernetes web UI
 ## 8- Install Rancher on Kubernetes
 ## 9- Upgrade Kubernetes cluster
