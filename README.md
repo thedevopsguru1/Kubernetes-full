@@ -11,7 +11,7 @@ https://github.com/devopstrainingschool/kubernetes-adding--users
 https://github.com/thedevopsguru1/kubernetes-adding--users
 ## 5- Connect to the cluster kube config:
 https://github.com/devopstrainingschool/Connecting-to-kubernetes-cluster
-## 5- Add NFS server to Kubernetes cluster
+## 6- Add NFS server to Kubernetes cluster
 ### Dynamic
 #### Using helm
 https://github.com/devopstrainingschool/nfs-subdir-external-provisioner
@@ -19,7 +19,8 @@ https://github.com/devopstrainingschool/nfs-subdir-external-provisioner
 https://github.com/thedevopsguru1/nfs-dynamic-provisioning
 ### Manually and kubernetes
 https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
-## 6- Install jenkins in Kubernetes
+## 7- External DNS 
+https://github.com/thedevopsguru1/external-dns
 ## 7- Kubernetes web UI
 ## 8- Install Rancher on Kubernetes
 ## 9- Upgrade Kubernetes cluster
