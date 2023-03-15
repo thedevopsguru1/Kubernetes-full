@@ -13,6 +13,9 @@ https://github.com/thedevopsguru1/kubernetes-adding--users
 https://github.com/devopstrainingschool/Connecting-to-kubernetes-cluster
 ## 5- Add NFS server to Kubernetes cluster
 ### Dynamic
+#### Using helm
+https://github.com/devopstrainingschool/nfs-subdir-external-provisioner
+#### Using yaml
 https://github.com/thedevopsguru1/nfs-dynamic-provisioning
 ### Manually and kubernetes
 https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
