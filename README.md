@@ -25,7 +25,8 @@ https://github.com/thedevopsguru1/external-dns
 https://www.youtube.com/watch?v=wLHegOz_aR4&t=816s
 ## 8- Migrate domain name to another DNS
 [://www.youtube.com/watch?v=MrZWbfeoGPc](https://www.youtube.com/watch?v=MrZWbfeoGPc)
-## 7- Kubernetes web UI
+## 9- Kubernetes Metrics
+https://github.com/thedevopsguru1/metrics-server
 ## 8- Install Rancher on Kubernetes
 ## 9- Upgrade Kubernetes cluster
 ## 10- Backup and restore Kubernetes cluster
