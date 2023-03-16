@@ -33,7 +33,7 @@ kubectl create ns external-dns
 ```
 ##### For linode add the tocken:
 ```
-helm upgrade --install external-dns my-repo/external-dns -n external-dns --set linode.apiTonken=" "
+helm upgrade --install external-dns my-repo/external-dns -n external-dns --set linode.apiToken=" " 
 ```
 #### Git 
 https://github.com/thedevopsguru1/external-dns
