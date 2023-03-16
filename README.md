@@ -25,7 +25,7 @@ https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
 helm repo add my-repo https://charts.bitnami.com/bitnami
 ```
 ```
-helm reop update
+helm repo update
 ```
 ##### For linode add the tocken:
 ```
