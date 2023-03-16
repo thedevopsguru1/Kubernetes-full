@@ -29,7 +29,7 @@ helm repo update
 ```
 ##### For linode add the tocken:
 ```
-helm upgrade --install external-dns my-repo/external-dns --createnamespace -n external dns --set linode.apiTonken=" "
+helm upgrade --install external-dns my-repo/external-dns -n external-dns --set linode.apiTonken=" "
 ```
 #### Git 
 https://github.com/thedevopsguru1/external-dns
