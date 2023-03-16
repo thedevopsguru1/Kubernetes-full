@@ -27,6 +27,10 @@ helm repo add my-repo https://charts.bitnami.com/bitnami
 ```
 helm repo update
 ```
+#### Create namespace
+```
+kubectl create ns external-dns
+```
 ##### For linode add the tocken:
 ```
 helm upgrade --install external-dns my-repo/external-dns -n external-dns --set linode.apiTonken=" "
