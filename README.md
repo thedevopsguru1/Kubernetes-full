@@ -20,6 +20,18 @@ https://github.com/thedevopsguru1/nfs-dynamic-provisioning
 ### Manually and kubernetes
 https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
 ## 7- External DNS 
+#### Helm chart
+```
+helm repo add my-repo https://charts.bitnami.com/bitnami
+```
+```
+helm reop update
+```
+##### For linode add the tocken:
+```
+helm upgrade --install external-dns my-repo/external-dns --createnamespace -n external dns --set linode.apiTonken=" "
+```
+#### Git 
 https://github.com/thedevopsguru1/external-dns
 #####
 https://www.youtube.com/watch?v=wLHegOz_aR4&t=816s
