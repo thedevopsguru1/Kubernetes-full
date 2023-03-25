@@ -6,6 +6,7 @@ https://github.com/thedevopsguru1/deploying_ingress_controller_to_k8s
 https://github.com/thedevopsguru1/Argo-CD-Installation
 ## 3.2- Install Jenkins in kubernetes
 https://github.com/thedevopsguru1/kubernetes-jenkins
+https://github.com/thedevopsguru1/Jenkins-installation-steps
 ## 4- Add users to kubernetes
 https://github.com/devopstrainingschool/kubernetes-adding--users
 https://github.com/thedevopsguru1/kubernetes-adding--users
