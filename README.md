@@ -37,6 +37,9 @@ helm repo update
 ```
 kubectl create ns external-dns
 ```
+```
+helm repo add bitnami https://charts.bitnami.com/bitnami
+```
 ##### For linode add the tocken:
 ```
 helm upgrade --install external-dns bitnami/external-dns --namespace external-dns --create-namespace --set provider=linode --set linode.apiToken=$LINODE_API_TOKEN
