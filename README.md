@@ -41,6 +41,8 @@ kubectl create ns external-dns
 ```
 helm upgrade --install external-dns bitnami/external-dns --namespace external-dns --create-namespace --set provider=linode --set linode.apiToken=$LINODE_API_TOKEN
 ```
+#### Test it by following this link:
+https://github.com/thedevopsguru1/external-dns/blob/master/docs/tutorials/linode.md
 #### Git 
 https://github.com/thedevopsguru1/external-dns
 #####
