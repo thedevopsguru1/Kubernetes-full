@@ -13,7 +13,7 @@ https://github.com/devopstrainingschool/kubernetes-adding--users
 https://github.com/thedevopsguru1/kubernetes-adding--users
 ## 5- Connect to the cluster kube config:
 https://github.com/devopstrainingschool/Connecting-to-kubernetes-cluster
-## 5-5 
+## 5-5 Install NFS server on centos 7
 ### Manually and kubernetes
 https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
 ## 6- Add NFS server to Kubernetes cluster
