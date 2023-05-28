@@ -2,6 +2,8 @@
 ## 1- Create kubernetes
 ## 2- Install Ingress controller and TLS certificate
 https://github.com/thedevopsguru1/deploying_ingress_controller_to_k8s
+### Only Certificate
+https://github.com/thedevopsguru1/create-cert-manager
 ## 3- Install ArgoCD to Kubernetes
 https://github.com/thedevopsguru1/Argo-CD-Installation
 ## 3.2- Install Jenkins in kubernetes
