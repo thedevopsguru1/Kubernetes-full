@@ -19,6 +19,8 @@ https://github.com/thedevopsguru1/Create-NFS-server-on-Centos-7
 ## 6- Add NFS server to Kubernetes cluster
 ### Dynamic
 #### Using helm
+https://github.com/thedevopsguru1/dynamic-nfs-provisioing/blob/main/README.md
+#### Another link here
 https://github.com/devopstrainingschool/nfs-subdir-external-provisioner
 #
 https://github.com/thedevopsguru1/nfs-subdir-external-provisioner?organization=thedevopsguru1&organization=thedevopsguru1
