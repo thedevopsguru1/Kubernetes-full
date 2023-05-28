@@ -30,6 +30,7 @@ https://github.com/thedevopsguru1/nfs-subdir-external-provisioner?organization=t
 https://github.com/thedevopsguru1/nfs-dynamic-provisioning
 
 ## 7- External DNS 
+Follow this link: https://github.com/thedevopsguru1/External-DNS-setup/tree/main
 #### Helm chart
 ```
 helm repo add my-repo https://charts.bitnami.com/bitnami
