@@ -68,3 +68,6 @@ https://github.com/thedevopsguru1/prometheus-grafana-bon
 ## 13- Sonarqube helm
 https://github.com/thedevopsguru1/sonarqube-helm-chart
 
+## 14- EFS for AWS Kubernetes
+https://ripon-banik.medium.com/efs-as-storageclass-for-eks-k8s-cluster-604bdcdba8ac
+
