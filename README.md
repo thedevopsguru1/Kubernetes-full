@@ -63,4 +63,8 @@ https://github.com/thedevopsguru1/metrics-server
 ## 9- Upgrade Kubernetes cluster
 ## 10- Backup and restore Kubernetes cluster
 ## 11- Kubeadm Renew certs
+## 12- Monitoring helm(Prometheus)
+https://github.com/thedevopsguru1/helm-charts-prometheus
+## 13- Sonarqube helm
+https://github.com/thedevopsguru1/sonarqube-helm-chart
 
