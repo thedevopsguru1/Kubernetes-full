@@ -68,7 +68,7 @@ https://github.com/thedevopsguru1/prometheus-grafana-bon
 ## 13- Sonarqube helm
 https://github.com/thedevopsguru1/sonarqube-helm-chart
 ## 14 - Rancher Installation
-https://github.com/thedevopsguru1/sonarqube-helm-chart
+https://github.com/thedevopsguru1/rancher-installation-helm
 ## 15- Jenkins server using terraform
 https://github.com/thedevopsguru1/Terraform-Jenkins-Master-Slave-Bon
 ## 16 - Gitlab runner installation
