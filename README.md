@@ -67,7 +67,14 @@ https://github.com/thedevopsguru1/metrics-server
 https://github.com/thedevopsguru1/prometheus-grafana-bon
 ## 13- Sonarqube helm
 https://github.com/thedevopsguru1/sonarqube-helm-chart
-
-## 14- EFS for AWS Kubernetes
+## 14 - Rancher Installation
+https://github.com/thedevopsguru1/sonarqube-helm-chart
+## 15- Jenkins server using terraform
+https://github.com/thedevopsguru1/Terraform-Jenkins-Master-Slave-Bon
+## 16 - Gitlab runner installation
+https://github.com/thedevopsguru1/Gitlab-runner-installation
+## 17- EFS for AWS Kubernetes
 https://ripon-banik.medium.com/efs-as-storageclass-for-eks-k8s-cluster-604bdcdba8ac
+## 18- Prometheus & grafana
+https://github.com/thedevopsguru1/prometheus-grafana-bon
 
