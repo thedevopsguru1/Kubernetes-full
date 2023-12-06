@@ -75,6 +75,10 @@ https://github.com/thedevopsguru1/rancher-installation-helm
 ```
 https://longhorn.io/docs/1.5.1/deploy/install/install-with-rancher/
 ```
+### Rancher locally 
+```
+https://github.com/thedevopsguru1/rancher-local-helm/tree/main
+```
 ## 15- Jenkins server using terraform
 https://github.com/thedevopsguru1/Terraform-Jenkins-Master-Slave-Bon
 ## 16 - Gitlab runner installation
